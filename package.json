@@ -1,0 +1,25 @@
+{
+  "name": "wiki-api",
+  "version": "1.0.0",
+  "description": "RESTful Wiki API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliviakim217/wiki-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliviakim217/wiki-api/issues"
+  },
+  "homepage": "https://github.com/oliviakim217/wiki-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10"
+  }
+}
